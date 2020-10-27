@@ -1,0 +1,13 @@
+C:\Users\adria\Documents\C#\Objetos\Cuenta_objetos\Cuenta_objetos\bin\Debug\netcoreapp3.1\Cuenta_objetos.exe
+C:\Users\adria\Documents\C#\Objetos\Cuenta_objetos\Cuenta_objetos\bin\Debug\netcoreapp3.1\Cuenta_objetos.deps.json
+C:\Users\adria\Documents\C#\Objetos\Cuenta_objetos\Cuenta_objetos\bin\Debug\netcoreapp3.1\Cuenta_objetos.runtimeconfig.json
+C:\Users\adria\Documents\C#\Objetos\Cuenta_objetos\Cuenta_objetos\bin\Debug\netcoreapp3.1\Cuenta_objetos.runtimeconfig.dev.json
+C:\Users\adria\Documents\C#\Objetos\Cuenta_objetos\Cuenta_objetos\bin\Debug\netcoreapp3.1\Cuenta_objetos.dll
+C:\Users\adria\Documents\C#\Objetos\Cuenta_objetos\Cuenta_objetos\bin\Debug\netcoreapp3.1\Cuenta_objetos.pdb
+C:\Users\adria\Documents\C#\Objetos\Cuenta_objetos\Cuenta_objetos\obj\Debug\netcoreapp3.1\Cuenta_objetos.csprojAssemblyReference.cache
+C:\Users\adria\Documents\C#\Objetos\Cuenta_objetos\Cuenta_objetos\obj\Debug\netcoreapp3.1\Cuenta_objetos.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\C#\Objetos\Cuenta_objetos\Cuenta_objetos\obj\Debug\netcoreapp3.1\Cuenta_objetos.AssemblyInfo.cs
+C:\Users\adria\Documents\C#\Objetos\Cuenta_objetos\Cuenta_objetos\obj\Debug\netcoreapp3.1\Cuenta_objetos.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\C#\Objetos\Cuenta_objetos\Cuenta_objetos\obj\Debug\netcoreapp3.1\Cuenta_objetos.dll
+C:\Users\adria\Documents\C#\Objetos\Cuenta_objetos\Cuenta_objetos\obj\Debug\netcoreapp3.1\Cuenta_objetos.pdb
+C:\Users\adria\Documents\C#\Objetos\Cuenta_objetos\Cuenta_objetos\obj\Debug\netcoreapp3.1\Cuenta_objetos.genruntimeconfig.cache
